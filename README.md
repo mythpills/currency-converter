@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Currency Converter with Historical Graph
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
